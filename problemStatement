@@ -1,0 +1,6 @@
+Game of 2 player Tic-Tac-Toe
+
+1. Game should be written to support expanding the game board from 3x3 to something larger like 10x10.
+2. Win criteria should be configurable too so that it can increase from 3 in a row to 10 in a row.
+3. Game state should be save-able and load-able. 
+4. Player should be able to reload a saved game and start playing from the saved state.
